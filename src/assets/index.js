@@ -67,13 +67,17 @@ import speakerlogo from "./benefits/speakerlogo1.jpg";
 
 import linkedin from "./benefits/linkedin.svg";
 
-import partner1 from "./partners/partner1.jpg";
-import partner2 from "./partners/partner2.jpg";
-import partner3 from "./partners/partner3.jpg";
-import partner4 from "./partners/partner4.jpg";
-import partner5 from "./partners/partner5.jpg";
-import partner6 from "./partners/partner6.jpg";
-import partner7 from "./partners/partner7.jpg";
+import partner1 from "./partners/partner1.png";
+import partner2 from "./partners/partner2.png";
+import partner3 from "./partners/partner3.png";
+import partner4 from "./partners/partner4.png";
+import partner5 from "./partners/partner5.png";
+import partner6 from "./partners/partner6.png";
+import partner7 from "./partners/partner7.png";
+import partner8 from "./partners/partner8.png";
+import partner9 from "./partners/partner9.png";
+import partner10 from "./partners/partner10.png";
+import partner11 from "./partners/partner11.png";
 
 
 import icon01 from "./theme/icon-1.png";
@@ -175,6 +179,10 @@ export {
   partner5,
   partner6,
   partner7,
+  partner8,
+  partner9,
+  partner10,
+  partner11,
   
 
   icon01,

@@ -104,6 +104,10 @@ import {
   series27,
   series28,
   series29,
+  partner8,
+  partner9,
+  partner10,
+  partner11,
 } from "../assets";
 
 export const navigation = [
@@ -148,18 +152,14 @@ export const seriesPartners = [
     name: "Everyday AI Partner",
     link: "https://www.dataiku.com/"
   },
-  /*{
-    icon: partner2,
-    name: "Premium Silver Partner",
-    link: "https://www.blueprism.com/"
-  },*/
+  
   {
-    icon: partner3,
+    icon: partner2,
     name: "Premium Bronze Partner",
     link: "https://www.tigeranalytics.com/"
   },
   {
-    icon: partner7,
+    icon: partner3,
     name: "Real-Time Data Platform Partner",
     link: "https://redis.io/"
   },
@@ -169,29 +169,56 @@ export const exhibitingPartners = [
 
   {
     icon: partner4,
-    link: "https://altair.com/",
-    
+    link: "#",
+    name: "Altair"
   },
 
   {
     icon: partner5,
-    link: "https://www.quest.com/",
+    link: "#",
+    name: "Quest"
+    
+  },
+  {
+    icon: partner6,
+    link: "#",
+    name: "TechMantra"
+  },
+  {
+    icon: partner7,
+    link: "#",
+    name: "Skillsoft Global Knowledge"
     
   },
  
 ];
 
 export const associatePartners = [
+
 {
-  icon: partner6,
-  link: "https://oredata.com/",
+  icon: partner8,
+  link: "#",
+   name: "Wakes"
   
 },
 {
-  icon: partner2,
-  link: "https://oredata.com/",
-  
+  icon: partner9,
+  link: "#",
+  name: "Airia"
+},
+{
+  icon: partner10,
+  link: "#",
+  name: "Nu10"
 }
+];
+
+export const networkingPartners = [
+  {
+    icon: partner11,
+    link: "#",
+    name: "Testhouse"
+  }
 ];
 
 export const forTheseIndustries = [
